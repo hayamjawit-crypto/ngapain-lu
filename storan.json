@@ -350,6 +350,10 @@
     "inputUsername": "@FORSEC1",
     "role": "PARTNER",
     "tanggal": "2026-10-09T13:30:02.451Z",
-    "status": "pending"
+    "status": "accepted",
+    "acceptedBy": "8601642537",
+    "acceptedByName": "SUPPORT MONZO",
+    "acceptedAt": "2026-10-09T13:30:41.552Z",
+    "inviteLink": "https://t.me/+kgZ7boebCwg4ZDg1"
   }
 ]
