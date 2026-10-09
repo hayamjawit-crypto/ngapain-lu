@@ -335,6 +335,10 @@
     "inputUsername": "@sp1der029",
     "role": "RESELLER",
     "tanggal": "2026-10-09T12:26:57.839Z",
-    "status": "pending"
+    "status": "accepted",
+    "acceptedBy": "1256823472",
+    "acceptedByName": "⋆ mãnx.",
+    "acceptedAt": "2026-10-09T12:27:08.198Z",
+    "inviteLink": "https://t.me/+nSPgcowmUnAzMzRl"
   }
 ]
